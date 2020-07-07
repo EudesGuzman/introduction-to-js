@@ -2,13 +2,9 @@
 
 function startCounting()
 {
-	
-	for(var i = 0; i < 100; i++)
-	{
-		console.log(i);
-	}
-	
-	return i;
+	for (var i = 0; i < 300; i++) {
+    window.print("I will write questions if I'm stuck");
+}
 }
 
 startCounting();
